@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>TMGetChargingCommand</key>
+        <string>command/charge_state</string>
+        <key>TMGetClimateCommand</key>
+        <string>command/climate_state</string>
+        <key>TMGetGUICommand</key>
+        <string>command/gui_settings</string>
+        <key>TMGetVehicleStateCommand</key>
+        <string>command/vehicle_state</string>
+        <key>TMGetLocationCommand</key>
+        <string>command/drive_state</string>
+        <key>TMOpenChargingPortCommand</key>
+        <string>command/charge_port_door_open</string>
+        <key>TMLockVehicleCommand</key>
+        <string>command/door_lock</string>
+        <key>TMUnlockVehicleCommand</key>
+        <string>command/door_unlock</string>
+        <key>TMStartChargingCommand</key>
+        <string>command/charge_start</string>
+        <key>TMStopChargingCommand</key>
+        <string>command/charge_stop</string>
+        <key>TMSetChargingLimitCommand</key>
+        <string>command/set_charge_limit</string>
+        <key>TMFlashlightsCommand</key>
+        <string>command/flash_lights</string>
+        <key>TMHonkHornCommand</key>
+        <string>command/honk_horn</string>
+        <key>TMSetTemperatureCommand</key>
+        <string>command/set_temps</string>
+        <key>TMStartAutoconditioningCommand</key>
+        <string>command/auto_conditioning_start</string>
+        <key>TMStopAutoconditioningCommand</key>
+        <string>command/auto_conditioning_stop</string>
+        <key>TMSetSunRoofStateCommand</key>
+        <string>command/sun_roof_control</string>
+    </dict>
+</plist>

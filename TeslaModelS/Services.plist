@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>TMRealServerURL</key>
+        <string>https://portal.vn.teslamotors.com</string>
+        <key>TMMockServerURL</key>
+        <string>https://private-227d6-timdorr.apiary-mock.com</string>
+    </dict>
+</plist>
